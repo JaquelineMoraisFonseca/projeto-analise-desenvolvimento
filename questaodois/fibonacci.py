@@ -1,3 +1,5 @@
+#Questão 2: Verificar se um número pertence à sequência de Fibonacci
+
 def is_fibonacci(n):
     a, b = 0, 1
     while b < n:

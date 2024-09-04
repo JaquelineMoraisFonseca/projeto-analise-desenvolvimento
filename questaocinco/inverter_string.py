@@ -1,3 +1,5 @@
+#Inverter os caracteres de uma string
+
 def inverter_string(s):
     invertida = ''
     for char in s:

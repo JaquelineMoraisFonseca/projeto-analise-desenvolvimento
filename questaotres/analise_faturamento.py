@@ -1,3 +1,5 @@
+#Questão 3: Calcular o menor, maior e o número de dias com faturamento superior à média
+
 import json
 
 with open('faturamento.json') as f:

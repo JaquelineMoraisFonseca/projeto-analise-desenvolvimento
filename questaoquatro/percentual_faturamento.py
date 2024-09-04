@@ -1,3 +1,5 @@
+#Questão 4: Calcular o percentual de representação de cada estado
+
 faturamento = {
     "SP": 67836.43,
     "RJ": 36678.66,
